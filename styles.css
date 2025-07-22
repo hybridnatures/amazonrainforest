@@ -96,8 +96,8 @@ body {
   
 }
 .image-container img {
-  width: 90%;
-  max-width: 500px;
+  width: 100%;
+  max-width: 1000px;
   margin-top: 0.5rem;
   border-radius: 8px;
 }
