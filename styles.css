@@ -91,8 +91,7 @@ body {
 .image-container {
   display: flex;
   flex-direction: column;
-  min-height: 500px;
-  height: 80vh;
+  
   
 }
 .image-container img {
