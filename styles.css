@@ -268,7 +268,6 @@ footer {
       max-width: 1000px; /* Set a max width */
       height: 80vh; /* Make it take 80% of viewport height */
       margin: auto;
-      padding: 1rem;
     }
 
     .flourish-container iframe {
@@ -282,3 +281,4 @@ footer {
         height: 60vh; /* Adjust height for smaller screens */
       }
     }
+
